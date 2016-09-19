@@ -1,11 +1,15 @@
 ### 使用到了Navigation，ToolBar , TabLayout , DrawLayout
+##### 参考的github上的实例
+`AndroidSystemUiTraining`
+`MaterializeYourApp`
+`AndroidDesignLibrary`
+`bilibili`
+#### 参考的文章
 #### Toolbar
 ###### http://www.codeceo.com/article/android-toolbar-develop.html 
 ###### http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2006.html
-`实例github上AndroidSystemUiTraining`
 #### 学习Navigation View(抽屉菜单)的操作
 ###### http://blog.csdn.net/u012702547/article/details/51253222
-`github上start的MaterializeYourApp实例`
 #### ActionBarDrawerToggle
 ###### http://blog.csdn.net/jjwwmlp456/article/details/41206513
 #### 状态栏
