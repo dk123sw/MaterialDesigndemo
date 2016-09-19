@@ -1,0 +1,24 @@
+<resources>
+
+     Base application theme.
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Theme.ToolBar.Base.Title" parent="@style/TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/color_red</item>
+    </style>
+
+    <style name="Theme.ToolBar.Base.Subtitle" parent="@style/TextAppearance.Widget.AppCompat.Toolbar.Subtitle">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/color_green</item>
+    </style>
+    
+    <style name="MyTabLayout" parent="Widget.Design.TabLayout">
+        <!--<item name="">@color/color_green</item>-->
+    </style>
+</resources>

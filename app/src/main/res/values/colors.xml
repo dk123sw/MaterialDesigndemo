@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FA7198</color>
+    <color name="colorPrimaryDark">#db6486</color>
+    <color name="colorAccent">#aeec3a77</color>
+    <color name="tabLayout">#ffffff</color>
+    <color name="tabtext">#aae6e6e6</color>
+//    toolbar的颜色
+    <color name="colorbule">#0000FF</color>
+    <color name="color_green">#D500FF2A</color>
+    <color name="color_red">#ff0000</color>
+
+</resources>

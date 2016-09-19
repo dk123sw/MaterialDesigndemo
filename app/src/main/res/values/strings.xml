@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">哔哩哔哩动画</string>
+    <!--Navigation View抽屉导航 -->
+    <string name="nv_home">首页</string>
+    <string name="nv_download">离线缓存</string>
+    <string name="nv_settings">设置与帮助</string>
+    <string name="nv_favourite">我的收藏</string>
+    <string name="nv_history">历史记录</string>
+    <string name="nv_group">关注的人</string>
+    <string name="nv_tracker">我的钱包</string>
+    <string name="nv_theme">主题选择</string>
+    <string name="nv_app">应用推荐</string>
+</resources>

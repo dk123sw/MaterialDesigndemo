@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_home"
+            android:checked="true"
+            android:icon="@drawable/nv_home"
+            android:title="@string/nv_home"/>
+
+        <item
+            android:id="@+id/item_download"
+            android:icon="@drawable/nv_download"
+            android:title="@string/nv_download"/>
+
+    <group  android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_favourite"
+            android:icon="@drawable/nv_favourite"
+            android:checked="true"
+            android:title="@string/nv_favourite"/>
+
+        <item
+            android:id="@+id/item_history"
+            android:icon="@drawable/nv_history"
+            android:title="@string/nv_history"/>
+
+        <item
+            android:id="@+id/item_group"
+            android:icon="@drawable/nv_group"
+            android:title="@string/nv_group"/>
+        <item
+            android:id="@+id/item_tracker"
+            android:icon="@drawable/nv_tracker"
+            android:title="@string/nv_tracker"/>
+    </group>
+
+    <group  android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_theme"
+            android:icon="@drawable/nv_theme"
+            android:checked="true"
+            android:title="@string/nv_theme"/>
+
+        <item
+            android:id="@+id/item_app"
+            android:icon="@drawable/nv_app"
+            android:title="@string/nv_app"/>
+
+
+        <item
+            android:id="@+id/item_settings"
+            android:icon="@drawable/nv_setting"
+            android:title="@string/nv_settings"/>
+    </group>
+    </group>
+</menu>
